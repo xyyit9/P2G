@@ -1,0 +1,26 @@
+
+.wrapperBox {
+  height: 800px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bodyBox {
+  width: 500px;
+  box-shadow: 1px 1px 10px 0 rgba(0, 0, 0, .3);
+}
+
+.headerOneBox {
+  color: #fff;
+  font-size: 24px;
+  padding: 30px 20px;
+  background-color: #108ee9;
+    text-align:center;
+}
+
+.formBox {
+  margin-top: 12px;
+  padding: 24px;
+}

@@ -1,0 +1,7 @@
+.header-box{ 
+  	width: 60%;
+    height:40px;
+    z-index: 999;
+    textAlign:right;
+    margin:auto
+}

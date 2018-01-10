@@ -1,0 +1,43 @@
+.loginClass{
+  height:960px;
+  width:100%;
+}
+.login-form {
+  max-width: 500px;
+  margin:0 auto;
+ 
+
+}
+.login-form-forgot {
+  float: right;
+}
+ .login-form-button {
+  width: 100%;
+}
+
+.wrapper {
+  height: 500px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.body {
+  width: 360px;
+  box-shadow: 1px 1px 10px 0 rgba(0, 0, 0, .3);
+}
+
+.headerOne {
+  color: #fff;
+  font-size: 24px;
+  padding: 30px 20px;
+  background-color: #108ee9;
+  height:100px;
+  width:auto;
+}
+
+.form {
+  margin-top: 12px;
+  padding: 24px;
+}
